@@ -1,0 +1,124 @@
+body{
+	background:url("../images/azules-26.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Hammersmith One', sans-serif;
+    margin:10px;
+    font-size: 20px;
+
+
+}
+
+.mainHeader{
+	
+	color: white;
+	margin-top: 5%;
+	margin-right: 0px;
+	text-align: center;
+
+
+}
+
+.pageBtns{
+	
+}
+ .btn{
+ 	
+	background:transparent;
+	color: white;
+	font-size: 25px;
+ }
+
+ .btn:hover{
+ 	color:orange;
+ 	font-size: 130%;
+/* 	text-shadow: 0.1em 0.1em 0.1em white;
+*/
+ }
+
+h1{
+	font-size: 65px;
+	text-align: center;
+	text-shadow: 0.2em 0.2em 0.4em black;
+
+
+}
+h2{
+	text-align: center;
+	text-shadow: 0.2em 0.2em 0.4em black;
+	font-size:30px;
+
+}
+
+.icon{
+	width:75px;
+	margin-bottom: 25px;
+
+}
+
+
+.container{
+	margin: 0;
+}
+/*#aboutMe {
+	background-color: white;
+	border:black, solid, 1px;
+}*/
+
+#careerObj{
+	background-color: white;
+	border:black, solid, 1px;
+}
+
+
+
+.photo{
+	/*width:555px;*/
+	width:90%;
+	margin-top: 20px;
+	border:orange double 20px;
+
+
+}
+
+.aboutMe{
+	text-align: left;
+}
+
+
+img {
+  border-radius: 100%; 
+
+}
+
+.submit{
+	background-color: white
+	color: black;
+	font-size: 25px;
+}
+
+.submit:hover{
+ 	color:orange;
+ 	font-size: 130%;
+
+ }
+.information{
+	color:white;
+	text-align: left;
+	padding-left: 15px;
+}
+h5{
+	text-align: left;
+	color:orange;
+}
+.resume{
+	color:orange;
+}
+.resume:hover{
+	color:white;
+	font-size: 120%;
+}
+
+.title{
+	color:white;
+}
