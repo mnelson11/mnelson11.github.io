@@ -78,13 +78,14 @@ h2{
 	/*width:555px;*/
 	width:90%;
 	margin-top: 20px;
-	border:orange double 20px;
+	border:orange solid 10px;
 
 
 }
 
 .aboutMe{
 	text-align: left;
+
 }
 
 
@@ -152,7 +153,8 @@ h5{
 p, .box, #contact { color:black; 
 	background:white;
 	padding:10px;
-	border:solid black 3px;}
+	border:solid black 3px;
+	opacity: 1;}
 
 .rcorners {
     border-radius: 25px;
@@ -165,4 +167,8 @@ p, .box, #contact { color:black;
 
 .information{
 	color:black;
+}
+
+.background{
+	opacity: 0.5;
 }
